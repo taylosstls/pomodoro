@@ -5,7 +5,7 @@ A Técnica Pomodoro é um método de gerenciamento de tempo desenvolvido por Fra
 Consiste na utilização de um cronômetro para dividir o trabalho em períodos de 25 minutos, separados por breves intervalos.
 A técnica deriva seu nome da palavra italiana pomodoro (tomate), como referência ao popular cronômetro gastronômico na forma dessa fruta. O método é baseado na ideia de que pausas frequentes podem aumentar a agilidade mental.
 
-O aplicativo React Native foi feito utilizando conceitos de <strong>Hooks, Components, useMemo e useCallback</strong>.
+Um aplicativo React Native feito com os conceitos de <strong>Hooks, Components, useMemo e useCallback</strong>.
 
 Para fazer download do modelo, basta clicar em <code>**↓ Code > Download Zip**</code> 😀
 
